@@ -1,6 +1,10 @@
 # stockchirper
 
+<a href="https://zenodo.org/doi/10.5281/zenodo.10750051"><img src="https://zenodo.org/badge/766046053.svg" alt="DOI"></a>
+
+
 Twitter Stock/Keyword Analysis Project
+
 Overview
 This project focuses on analyzing Twitter data to extract insights related to specific keywords or stock symbols. By collecting tweets that mention given keywords or symbols, we aim to perform sentiment analysis, trend analysis, and frequency analysis. The outcomes can aid in understanding public perception, trending topics, and the sentiment around specific stocks or general keywords over time.
 
